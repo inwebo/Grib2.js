@@ -1,7 +1,7 @@
 {
-  "name": "@inwebo/npm-boilerplate",
-  "version": "0.0.2",
-  "description": "Npm boilerplate",
+  "name": "@inwebo/grib2.js",
+  "version": "0.0.1",
+  "description": "Gribe2 file decoder",
   "main": "/src/index.js",
   "scripts": {
     "build": "webpack"
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/inwebo/npm-boilerplate.git"
+    "url": "https://github.com/inwebo/Grib2.js"
   },
-  "homepage": "https://inwebo.github.io/npm-boilerplate/",
+  "homepage": "https://inwebo.github.io/Grib2.js/",
   "author": "inwebo-veritas",
   "license": "GPL-3.0",
   "devDependencies": {
@@ -32,6 +32,6 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/inwebo/npm-boilerplate/issues"
+    "url": "https://github.com/inwebo/Grib2.js/issues"
   }
 }
