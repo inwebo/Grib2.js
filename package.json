@@ -1,5 +1,5 @@
 {
-  "name": "@inwebo/grib2.js",
+  "name": "@inwebo/grib2",
   "version": "0.0.1",
   "description": "Gribe2 file decoder",
   "main": "/src/index.js",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/inwebo/Grib2.js"
+    "url": "git+https://github.com/inwebo/Grib2.js.git"
   },
   "homepage": "https://inwebo.github.io/Grib2.js/",
   "author": "inwebo-veritas",
@@ -33,5 +33,8 @@
   "dependencies": {},
   "bugs": {
     "url": "https://github.com/inwebo/Grib2.js/issues"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
