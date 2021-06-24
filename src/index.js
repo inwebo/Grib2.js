@@ -1,2 +1,2 @@
 // Sections
-import Indicator from "./Model/Section/Indicator";
+import { INDICATOR_SIZE, Indicator } from "./Model/Section/Indicator";

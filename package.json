@@ -30,7 +30,9 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@inwebo/graph.js": "^0.0.2"
+  },
   "bugs": {
     "url": "https://github.com/inwebo/Grib2.js/issues"
   },
